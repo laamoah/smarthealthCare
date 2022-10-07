@@ -1,0 +1,162 @@
+D:\myDevs\vs_works\MyProjects\SmartHealthCare\SmartHealthCare\bin\Debug\SmartHealthCare.exe.config
+D:\myDevs\vs_works\MyProjects\SmartHealthCare\SmartHealthCare\bin\Debug\SmartHealthCare.exe.manifest
+D:\myDevs\vs_works\MyProjects\SmartHealthCare\SmartHealthCare\bin\Debug\SmartHealthCare.application
+D:\myDevs\vs_works\MyProjects\SmartHealthCare\SmartHealthCare\bin\Debug\SmartHealthCare.exe
+D:\myDevs\vs_works\MyProjects\SmartHealthCare\SmartHealthCare\bin\Debug\SmartHealthCare.pdb
+D:\myDevs\vs_works\MyProjects\SmartHealthCare\SmartHealthCare\bin\Debug\SmartHealthCare.xml
+D:\myDevs\vs_works\MyProjects\SmartHealthCare\SmartHealthCare\bin\Debug\System.Data.DataSetExtensions.dll
+D:\myDevs\vs_works\MyProjects\SmartHealthCare\SmartHealthCare\bin\Debug\System.Data.dll
+D:\myDevs\vs_works\MyProjects\SmartHealthCare\SmartHealthCare\bin\Debug\System.Deployment.dll
+D:\myDevs\vs_works\MyProjects\SmartHealthCare\SmartHealthCare\bin\Debug\System.dll
+D:\myDevs\vs_works\MyProjects\SmartHealthCare\SmartHealthCare\bin\Debug\System.Drawing.dll
+D:\myDevs\vs_works\MyProjects\SmartHealthCare\SmartHealthCare\bin\Debug\System.Net.Http.dll
+D:\myDevs\vs_works\MyProjects\SmartHealthCare\SmartHealthCare\bin\Debug\System.Windows.Forms.dll
+D:\myDevs\vs_works\MyProjects\SmartHealthCare\SmartHealthCare\bin\Debug\System.Xml.dll
+D:\myDevs\vs_works\MyProjects\SmartHealthCare\SmartHealthCare\bin\Debug\System.Xml.Linq.dll
+D:\myDevs\vs_works\MyProjects\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.frmAdmin.resources
+D:\myDevs\vs_works\MyProjects\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.frmEditDis.resources
+D:\myDevs\vs_works\MyProjects\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.frmHosp.resources
+D:\myDevs\vs_works\MyProjects\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.frmPatient.resources
+D:\myDevs\vs_works\MyProjects\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.frmLogin.resources
+D:\myDevs\vs_works\MyProjects\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.frmPateintSignUp.resources
+D:\myDevs\vs_works\MyProjects\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.Resources.resources
+D:\myDevs\vs_works\MyProjects\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.vbproj.GenerateResource.Cache
+D:\myDevs\vs_works\MyProjects\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.exe.manifest
+D:\myDevs\vs_works\MyProjects\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.application
+D:\myDevs\vs_works\MyProjects\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.exe
+D:\myDevs\vs_works\MyProjects\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.xml
+D:\myDevs\vs_works\MyProjects\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.pdb
+D:\myDevs\vs_works\MyProjects\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.vbprojResolveAssemblyReference.cache
+C:\Users\Ankrah Afi Sarah\Desktop\SmartHealthCare\SmartHealthCare\bin\Debug\SmartHealthCare.exe.config
+C:\Users\Ankrah Afi Sarah\Desktop\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.exe
+C:\Users\Ankrah Afi Sarah\Desktop\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.xml
+C:\Users\Ankrah Afi Sarah\Desktop\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.pdb
+C:\Users\Ankrah Afi Sarah\Desktop\SmartHealthCare\SmartHealthCare\bin\Debug\SmartHealthCare.exe.manifest
+C:\Users\Ankrah Afi Sarah\Desktop\SmartHealthCare\SmartHealthCare\bin\Debug\SmartHealthCare.application
+C:\Users\Ankrah Afi Sarah\Desktop\SmartHealthCare\SmartHealthCare\bin\Debug\SmartHealthCare.exe
+C:\Users\Ankrah Afi Sarah\Desktop\SmartHealthCare\SmartHealthCare\bin\Debug\SmartHealthCare.pdb
+C:\Users\Ankrah Afi Sarah\Desktop\SmartHealthCare\SmartHealthCare\bin\Debug\SmartHealthCare.xml
+C:\Users\Ankrah Afi Sarah\Desktop\SmartHealthCare\SmartHealthCare\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Ankrah Afi Sarah\Desktop\SmartHealthCare\SmartHealthCare\bin\Debug\System.Data.dll
+C:\Users\Ankrah Afi Sarah\Desktop\SmartHealthCare\SmartHealthCare\bin\Debug\System.Deployment.dll
+C:\Users\Ankrah Afi Sarah\Desktop\SmartHealthCare\SmartHealthCare\bin\Debug\System.dll
+C:\Users\Ankrah Afi Sarah\Desktop\SmartHealthCare\SmartHealthCare\bin\Debug\System.Drawing.dll
+C:\Users\Ankrah Afi Sarah\Desktop\SmartHealthCare\SmartHealthCare\bin\Debug\System.Net.Http.dll
+C:\Users\Ankrah Afi Sarah\Desktop\SmartHealthCare\SmartHealthCare\bin\Debug\System.Windows.Forms.dll
+C:\Users\Ankrah Afi Sarah\Desktop\SmartHealthCare\SmartHealthCare\bin\Debug\System.Xml.dll
+C:\Users\Ankrah Afi Sarah\Desktop\SmartHealthCare\SmartHealthCare\bin\Debug\System.Xml.Linq.dll
+C:\Users\Ankrah Afi Sarah\Desktop\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.vbprojResolveAssemblyReference.cache
+C:\Users\Ankrah Afi Sarah\Desktop\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.frmAdmin.resources
+C:\Users\Ankrah Afi Sarah\Desktop\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.frmEditDis.resources
+C:\Users\Ankrah Afi Sarah\Desktop\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.frmHosp.resources
+C:\Users\Ankrah Afi Sarah\Desktop\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.frmPatient.resources
+C:\Users\Ankrah Afi Sarah\Desktop\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.frmLogin.resources
+C:\Users\Ankrah Afi Sarah\Desktop\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.frmPateintSignUp.resources
+C:\Users\Ankrah Afi Sarah\Desktop\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.Resources.resources
+C:\Users\Ankrah Afi Sarah\Desktop\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.vbproj.GenerateResource.Cache
+C:\Users\Ankrah Afi Sarah\Desktop\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.exe.manifest
+C:\Users\Ankrah Afi Sarah\Desktop\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.application
+C:\sly\SmartHealthCare\SmartHealthCare\bin\Debug\SmartHealthCare.exe.config
+C:\sly\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.exe
+C:\sly\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.xml
+C:\sly\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.pdb
+C:\sly\SmartHealthCare\SmartHealthCare\bin\Debug\SmartHealthCare.exe.manifest
+C:\sly\SmartHealthCare\SmartHealthCare\bin\Debug\SmartHealthCare.application
+C:\sly\SmartHealthCare\SmartHealthCare\bin\Debug\SmartHealthCare.exe
+C:\sly\SmartHealthCare\SmartHealthCare\bin\Debug\SmartHealthCare.pdb
+C:\sly\SmartHealthCare\SmartHealthCare\bin\Debug\SmartHealthCare.xml
+C:\sly\SmartHealthCare\SmartHealthCare\bin\Debug\System.Data.DataSetExtensions.dll
+C:\sly\SmartHealthCare\SmartHealthCare\bin\Debug\System.Data.dll
+C:\sly\SmartHealthCare\SmartHealthCare\bin\Debug\System.Deployment.dll
+C:\sly\SmartHealthCare\SmartHealthCare\bin\Debug\System.dll
+C:\sly\SmartHealthCare\SmartHealthCare\bin\Debug\System.Drawing.dll
+C:\sly\SmartHealthCare\SmartHealthCare\bin\Debug\System.Net.Http.dll
+C:\sly\SmartHealthCare\SmartHealthCare\bin\Debug\System.Windows.Forms.dll
+C:\sly\SmartHealthCare\SmartHealthCare\bin\Debug\System.Xml.dll
+C:\sly\SmartHealthCare\SmartHealthCare\bin\Debug\System.Xml.Linq.dll
+C:\sly\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.vbprojResolveAssemblyReference.cache
+C:\sly\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.frmAdmin.resources
+C:\sly\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.frmEditDis.resources
+C:\sly\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.frmHosp.resources
+C:\sly\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.frmPatient.resources
+C:\sly\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.frmLogin.resources
+C:\sly\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.frmPateintSignUp.resources
+C:\sly\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.Resources.resources
+C:\sly\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.vbproj.GenerateResource.Cache
+C:\sly\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.exe.manifest
+C:\sly\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.application
+C:\sly\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.frmViewPatient.resources
+C:\sly\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.frmEditPatientPass.resources
+D:\myDevs\vs_works\MyProjects\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.frmEditPatientPass.resources
+D:\myDevs\vs_works\MyProjects\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.frmViewPatient.resources
+D:\myDevs\vs_works\MyProjects\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.frmApptmt.resources
+C:\Users\Hp\Desktop\4_5864235590181983945\SmartHealthCare\SmartHealthCare\bin\Debug\SmartHealthCare.exe.config
+C:\Users\Hp\Desktop\4_5864235590181983945\SmartHealthCare\SmartHealthCare\bin\Debug\SmartHealthCare.exe.manifest
+C:\Users\Hp\Desktop\4_5864235590181983945\SmartHealthCare\SmartHealthCare\bin\Debug\SmartHealthCare.application
+C:\Users\Hp\Desktop\4_5864235590181983945\SmartHealthCare\SmartHealthCare\bin\Debug\SmartHealthCare.exe
+C:\Users\Hp\Desktop\4_5864235590181983945\SmartHealthCare\SmartHealthCare\bin\Debug\SmartHealthCare.pdb
+C:\Users\Hp\Desktop\4_5864235590181983945\SmartHealthCare\SmartHealthCare\bin\Debug\SmartHealthCare.xml
+C:\Users\Hp\Desktop\4_5864235590181983945\SmartHealthCare\SmartHealthCare\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Hp\Desktop\4_5864235590181983945\SmartHealthCare\SmartHealthCare\bin\Debug\System.Data.dll
+C:\Users\Hp\Desktop\4_5864235590181983945\SmartHealthCare\SmartHealthCare\bin\Debug\System.Deployment.dll
+C:\Users\Hp\Desktop\4_5864235590181983945\SmartHealthCare\SmartHealthCare\bin\Debug\System.dll
+C:\Users\Hp\Desktop\4_5864235590181983945\SmartHealthCare\SmartHealthCare\bin\Debug\System.Drawing.dll
+C:\Users\Hp\Desktop\4_5864235590181983945\SmartHealthCare\SmartHealthCare\bin\Debug\System.Net.Http.dll
+C:\Users\Hp\Desktop\4_5864235590181983945\SmartHealthCare\SmartHealthCare\bin\Debug\System.Windows.Forms.dll
+C:\Users\Hp\Desktop\4_5864235590181983945\SmartHealthCare\SmartHealthCare\bin\Debug\System.Xml.dll
+C:\Users\Hp\Desktop\4_5864235590181983945\SmartHealthCare\SmartHealthCare\bin\Debug\System.Xml.Linq.dll
+C:\Users\Hp\Desktop\4_5864235590181983945\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.vbproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\4_5864235590181983945\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\Desktop\4_5864235590181983945\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.frmAdmin.resources
+C:\Users\Hp\Desktop\4_5864235590181983945\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.frmApptmt.resources
+C:\Users\Hp\Desktop\4_5864235590181983945\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.frmEditDis.resources
+C:\Users\Hp\Desktop\4_5864235590181983945\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.frmEditPatientPass.resources
+C:\Users\Hp\Desktop\4_5864235590181983945\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.frmHosp.resources
+C:\Users\Hp\Desktop\4_5864235590181983945\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.frmPatient.resources
+C:\Users\Hp\Desktop\4_5864235590181983945\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.frmLogin.resources
+C:\Users\Hp\Desktop\4_5864235590181983945\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.frmPateintSignUp.resources
+C:\Users\Hp\Desktop\4_5864235590181983945\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.frmViewPatient.resources
+C:\Users\Hp\Desktop\4_5864235590181983945\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.Resources.resources
+C:\Users\Hp\Desktop\4_5864235590181983945\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.vbproj.GenerateResource.cache
+C:\Users\Hp\Desktop\4_5864235590181983945\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.vbproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\4_5864235590181983945\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.exe.manifest
+C:\Users\Hp\Desktop\4_5864235590181983945\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.application
+C:\Users\Hp\Desktop\4_5864235590181983945\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.vbproj.CopyComplete
+C:\Users\Hp\Desktop\4_5864235590181983945\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.exe
+C:\Users\Hp\Desktop\4_5864235590181983945\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.xml
+C:\Users\Hp\Desktop\4_5864235590181983945\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.pdb
+C:\Users\Hp\Desktop\SmartHealthCare\SmartHealthCare\bin\Debug\SmartHealthCare.exe.config
+C:\Users\Hp\Desktop\SmartHealthCare\SmartHealthCare\bin\Debug\SmartHealthCare.exe.manifest
+C:\Users\Hp\Desktop\SmartHealthCare\SmartHealthCare\bin\Debug\SmartHealthCare.application
+C:\Users\Hp\Desktop\SmartHealthCare\SmartHealthCare\bin\Debug\SmartHealthCare.exe
+C:\Users\Hp\Desktop\SmartHealthCare\SmartHealthCare\bin\Debug\SmartHealthCare.pdb
+C:\Users\Hp\Desktop\SmartHealthCare\SmartHealthCare\bin\Debug\SmartHealthCare.xml
+C:\Users\Hp\Desktop\SmartHealthCare\SmartHealthCare\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Hp\Desktop\SmartHealthCare\SmartHealthCare\bin\Debug\System.Data.dll
+C:\Users\Hp\Desktop\SmartHealthCare\SmartHealthCare\bin\Debug\System.Deployment.dll
+C:\Users\Hp\Desktop\SmartHealthCare\SmartHealthCare\bin\Debug\System.dll
+C:\Users\Hp\Desktop\SmartHealthCare\SmartHealthCare\bin\Debug\System.Drawing.dll
+C:\Users\Hp\Desktop\SmartHealthCare\SmartHealthCare\bin\Debug\System.Net.Http.dll
+C:\Users\Hp\Desktop\SmartHealthCare\SmartHealthCare\bin\Debug\System.Windows.Forms.dll
+C:\Users\Hp\Desktop\SmartHealthCare\SmartHealthCare\bin\Debug\System.Xml.dll
+C:\Users\Hp\Desktop\SmartHealthCare\SmartHealthCare\bin\Debug\System.Xml.Linq.dll
+C:\Users\Hp\Desktop\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.vbproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\Desktop\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.frmAdmin.resources
+C:\Users\Hp\Desktop\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.frmApptmt.resources
+C:\Users\Hp\Desktop\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.frmEditDis.resources
+C:\Users\Hp\Desktop\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.frmEditPatientPass.resources
+C:\Users\Hp\Desktop\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.frmHosp.resources
+C:\Users\Hp\Desktop\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.frmPatient.resources
+C:\Users\Hp\Desktop\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.frmLogin.resources
+C:\Users\Hp\Desktop\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.frmPateintSignUp.resources
+C:\Users\Hp\Desktop\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.frmViewPatient.resources
+C:\Users\Hp\Desktop\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.Resources.resources
+C:\Users\Hp\Desktop\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.vbproj.GenerateResource.cache
+C:\Users\Hp\Desktop\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.vbproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.exe.manifest
+C:\Users\Hp\Desktop\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.application
+C:\Users\Hp\Desktop\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.vbproj.CopyComplete
+C:\Users\Hp\Desktop\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.exe
+C:\Users\Hp\Desktop\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.xml
+C:\Users\Hp\Desktop\SmartHealthCare\SmartHealthCare\obj\Debug\SmartHealthCare.pdb
